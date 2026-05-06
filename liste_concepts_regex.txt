@@ -1,0 +1,33 @@
+[EÉ]pilepsie(s)?
+An[ée]vr[yi]sme(s)? miliaire(s)?
+Aphasie(s)?
+Arthropathie(s)? tabétique(s)?
+Astasie(s)?-abasie(s)?
+Ataxie(s)? locomotrice(s)? progressive(s)?
+Athétose(s)?
+Atrophie(s)? musculaire(s)? progressive(s)?
+Bulbe(s)? rachidien(s)?
+Chorée(s)?
+Clonus
+Coupe(s)? verticale(s)?
+Fugue(s)?
+Glossy skin(s)?
+Hypnose(s)?
+Hystérie(s)?
+Localisation(s)? cérébrale(s)?
+Maladie(s)?( de)? Parkinson
+Maladie(s)?( de)?( Gilles de la)? Tourette
+Méthode(s)? anatomo-clinique(s)?
+Migraine(s)? ophtalmique(s)?
+Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?
+Paralysi[es] agitan(te|s)
+Sclérose(s)? en plaque(s)? disséminées(s)?
+Sclérose(s)? latérale(s)? amyotrophique(s)?
+Syndrome(s)?( de)? Parkinson
+Syndrome(s)?( de)?( Gilles de la)? Tourette
+Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle
+Tab[eè]s dorsal(is)?
+Tab[eè]s dorsal(is)? spasmodique(s)?
+Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)
+Tic(s)? convulsif(s)?
+Tremblement(s)?

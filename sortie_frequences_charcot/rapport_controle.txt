@@ -1,0 +1,47 @@
+Corpus : corpus_Charcot
+Fichier de regex : liste_concepts_regex.txt
+Fichiers XML/TEI trouvés : 68
+Fichiers traités : 68
+Nombre de processus : 1
+Nombre d'années : 27
+Années : 1881, 1882, 1883, 1884, 1885, 1886, 1887, 1888, 1889, 1890, 1891, 1892, 1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907
+Base de normalisation : 1000000 tokens
+Tokenisation spaCy pour total_tokens : True
+Accents neutralisés : True
+
+Expressions régulières :
+- épilepsie -> epilepsie -> [EÉ]pilepsie(s)? -> total occurrences: 5695
+- anévrisme miliaire -> anevrisme_miliaire -> An[ée]vr[yi]sme(s)? miliaire(s)? -> total occurrences: 130
+- aphasie -> aphasie -> Aphasie(s)? -> total occurrences: 1611
+- arthropathie tabétique -> arthropathie_tabetique -> Arthropathie(s)? tabétique(s)? -> total occurrences: 33
+- astasie-abasie -> astasie_abasie -> Astasie(s)?-abasie(s)? -> total occurrences: 105
+- ataxie locomotrice progressive -> ataxie_locomotrice_progressive -> Ataxie(s)? locomotrice(s)? progressive(s)? -> total occurrences: 152
+- athétose -> athetose -> Athétose(s)? -> total occurrences: 214
+- atrophie musculaire progressive -> atrophie_musculaire_progressive -> Atrophie(s)? musculaire(s)? progressive(s)? -> total occurrences: 267
+- bulbe rachidien -> bulbe_rachidien -> Bulbe(s)? rachidien(s)? -> total occurrences: 48
+- chorée -> choree -> Chorée(s)? -> total occurrences: 1580
+- clonus -> clonus -> Clonus -> total occurrences: 180
+- coupe verticale -> coupe_verticale -> Coupe(s)? verticale(s)? -> total occurrences: 43
+- fugue -> fugue -> Fugue(s)? -> total occurrences: 323
+- glossy skin -> glossy_skin -> Glossy skin(s)? -> total occurrences: 8
+- hypnose -> hypnose -> Hypnose(s)? -> total occurrences: 384
+- hystérie -> hysterie -> Hystérie(s)? -> total occurrences: 5808
+- localisation cérébrale -> localisation_cerebrale -> Localisation(s)? cérébrale(s)? -> total occurrences: 288
+- maladie de Parkinson -> maladie_de_parkinson -> Maladie(s)?( de)? Parkinson -> total occurrences: 87
+- maladie de Gilles de la Tourette -> maladie_de_gilles_de_la_tourette -> Maladie(s)?( de)?( Gilles de la)? Tourette -> total occurrences: 3
+- méthode anatomo-clinique -> methode_anatomo_clinique -> Méthode(s)? anatomo-clinique(s)? -> total occurrences: 44
+- migraine ophtalmique -> migraine_ophtalmique -> Migraine(s)? ophtalmique(s)? -> total occurrences: 136
+- pachyméningite cervicale hypertrophique -> pachymeningite_cervicale_hypertrophique -> Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)? -> total occurrences: 48
+- paralysie agitante -> paralysie_agitante -> Paralysi[es] agitan(te|s) -> total occurrences: 333
+- sclérose en plaques disséminées -> sclerose_en_plaques_disseminees -> Sclérose(s)? en plaque(s)? disséminées(s)? -> total occurrences: 45
+- sclérose latérale amyotrophique -> sclerose_laterale_amyotrophique -> Sclérose(s)? latérale(s)? amyotrophique(s)? -> total occurrences: 290
+- syndrome de Parkinson -> syndrome_de_parkinson -> Syndrome(s)?( de)? Parkinson -> total occurrences: 2
+- syndrome de Gilles de la Tourette -> syndrome_de_gilles_de_la_tourette -> Syndrome(s)?( de)?( Gilles de la)? Tourette -> total occurrences: 0
+- systématisation de la moelle -> systematisation_de_la_moelle -> Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle -> total occurrences: 2
+- tabès dorsalis -> tabes_dorsalis -> Tab[eè]s dorsal(is)? -> total occurrences: 382
+- tabès dorsalis spasmodique -> tabes_dorsalis_spasmodique -> Tab[eè]s dorsal(is)? spasmodique(s)? -> total occurrences: 59
+- thrombose de l'artère cérébrale postérieure -> thrombose_de_l_artere_cerebrale_posterieure -> Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure) -> total occurrences: 4
+- tic convulsif -> tic_convulsif -> Tic(s)? convulsif(s)? -> total occurrences: 106
+- tremblement -> tremblement -> Tremblement(s)? -> total occurrences: 2605
+
+Aucun fichier ignoré.

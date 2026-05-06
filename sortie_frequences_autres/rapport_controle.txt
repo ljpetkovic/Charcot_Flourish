@@ -1,0 +1,47 @@
+Corpus : corpus_Autres
+Fichier de regex : liste_concepts_regex.txt
+Fichiers XML/TEI trouvés : 92
+Fichiers traités : 92
+Nombre de processus : 1
+Nombre d'années : 37
+Années : 1881, 1882, 1883, 1884, 1885, 1886, 1887, 1888, 1889, 1890, 1891, 1892, 1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910, 1911, 1912, 1913, 1915, 1918, 1925, 1934
+Base de normalisation : 1000000 tokens
+Tokenisation spaCy pour total_tokens : True
+Accents neutralisés : True
+
+Expressions régulières :
+- épilepsie -> epilepsie -> [EÉ]pilepsie(s)? -> total occurrences: 3264
+- anévrisme miliaire -> anevrisme_miliaire -> An[ée]vr[yi]sme(s)? miliaire(s)? -> total occurrences: 1
+- aphasie -> aphasie -> Aphasie(s)? -> total occurrences: 929
+- arthropathie tabétique -> arthropathie_tabetique -> Arthropathie(s)? tabétique(s)? -> total occurrences: 136
+- astasie-abasie -> astasie_abasie -> Astasie(s)?-abasie(s)? -> total occurrences: 51
+- ataxie locomotrice progressive -> ataxie_locomotrice_progressive -> Ataxie(s)? locomotrice(s)? progressive(s)? -> total occurrences: 17
+- athétose -> athetose -> Athétose(s)? -> total occurrences: 420
+- atrophie musculaire progressive -> atrophie_musculaire_progressive -> Atrophie(s)? musculaire(s)? progressive(s)? -> total occurrences: 193
+- bulbe rachidien -> bulbe_rachidien -> Bulbe(s)? rachidien(s)? -> total occurrences: 105
+- chorée -> choree -> Chorée(s)? -> total occurrences: 1007
+- clonus -> clonus -> Clonus -> total occurrences: 205
+- coupe verticale -> coupe_verticale -> Coupe(s)? verticale(s)? -> total occurrences: 141
+- fugue -> fugue -> Fugue(s)? -> total occurrences: 207
+- glossy skin -> glossy_skin -> Glossy skin(s)? -> total occurrences: 5
+- hypnose -> hypnose -> Hypnose(s)? -> total occurrences: 2058
+- hystérie -> hysterie -> Hystérie(s)? -> total occurrences: 4649
+- localisation cérébrale -> localisation_cerebrale -> Localisation(s)? cérébrale(s)? -> total occurrences: 66
+- maladie de Parkinson -> maladie_de_parkinson -> Maladie(s)?( de)? Parkinson -> total occurrences: 144
+- maladie de Gilles de la Tourette -> maladie_de_gilles_de_la_tourette -> Maladie(s)?( de)?( Gilles de la)? Tourette -> total occurrences: 3
+- méthode anatomo-clinique -> methode_anatomo_clinique -> Méthode(s)? anatomo-clinique(s)? -> total occurrences: 10
+- migraine ophtalmique -> migraine_ophtalmique -> Migraine(s)? ophtalmique(s)? -> total occurrences: 29
+- pachyméningite cervicale hypertrophique -> pachymeningite_cervicale_hypertrophique -> Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)? -> total occurrences: 23
+- paralysie agitante -> paralysie_agitante -> Paralysi[es] agitan(te|s) -> total occurrences: 161
+- sclérose en plaques disséminées -> sclerose_en_plaques_disseminees -> Sclérose(s)? en plaque(s)? disséminées(s)? -> total occurrences: 10
+- sclérose latérale amyotrophique -> sclerose_laterale_amyotrophique -> Sclérose(s)? latérale(s)? amyotrophique(s)? -> total occurrences: 87
+- syndrome de Parkinson -> syndrome_de_parkinson -> Syndrome(s)?( de)? Parkinson -> total occurrences: 0
+- syndrome de Gilles de la Tourette -> syndrome_de_gilles_de_la_tourette -> Syndrome(s)?( de)?( Gilles de la)? Tourette -> total occurrences: 1
+- systématisation de la moelle -> systematisation_de_la_moelle -> Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle -> total occurrences: 3
+- tabès dorsalis -> tabes_dorsalis -> Tab[eè]s dorsal(is)? -> total occurrences: 144
+- tabès dorsalis spasmodique -> tabes_dorsalis_spasmodique -> Tab[eè]s dorsal(is)? spasmodique(s)? -> total occurrences: 33
+- thrombose de l'artère cérébrale postérieure -> thrombose_de_l_artere_cerebrale_posterieure -> Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure) -> total occurrences: 6
+- tic convulsif -> tic_convulsif -> Tic(s)? convulsif(s)? -> total occurrences: 71
+- tremblement -> tremblement -> Tremblement(s)? -> total occurrences: 2467
+
+Aucun fichier ignoré.

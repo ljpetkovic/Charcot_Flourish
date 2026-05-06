@@ -1,0 +1,1222 @@
+date,documents,total_tokens,expression,colonne_flourish,regex,occurrences,freq_ppm
+1881,1,34636,épilepsie,epilepsie,[EÉ]pilepsie(s)?,52,1501.328098
+1881,1,34636,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1881,1,34636,aphasie,aphasie,Aphasie(s)?,2,57.743388
+1881,1,34636,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1881,1,34636,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1881,1,34636,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1881,1,34636,athétose,athetose,Athétose(s)?,2,57.743388
+1881,1,34636,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1881,1,34636,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1881,1,34636,chorée,choree,Chorée(s)?,0,0.0
+1881,1,34636,clonus,clonus,Clonus,0,0.0
+1881,1,34636,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1881,1,34636,fugue,fugue,Fugue(s)?,0,0.0
+1881,1,34636,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1881,1,34636,hypnose,hypnose,Hypnose(s)?,0,0.0
+1881,1,34636,hystérie,hysterie,Hystérie(s)?,21,606.305578
+1881,1,34636,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1881,1,34636,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1881,1,34636,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1881,1,34636,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1881,1,34636,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1881,1,34636,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1881,1,34636,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),1,28.871694
+1881,1,34636,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1881,1,34636,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,1,28.871694
+1881,1,34636,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1881,1,34636,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1881,1,34636,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1881,1,34636,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,1,28.871694
+1881,1,34636,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,1,28.871694
+1881,1,34636,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1881,1,34636,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1881,1,34636,tremblement,tremblement,Tremblement(s)?,4,115.486777
+1882,1,52609,épilepsie,epilepsie,[EÉ]pilepsie(s)?,95,1805.774677
+1882,1,52609,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1882,1,52609,aphasie,aphasie,Aphasie(s)?,1,19.008154
+1882,1,52609,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1882,1,52609,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1882,1,52609,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1882,1,52609,athétose,athetose,Athétose(s)?,0,0.0
+1882,1,52609,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1882,1,52609,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1882,1,52609,chorée,choree,Chorée(s)?,0,0.0
+1882,1,52609,clonus,clonus,Clonus,0,0.0
+1882,1,52609,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1882,1,52609,fugue,fugue,Fugue(s)?,0,0.0
+1882,1,52609,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1882,1,52609,hypnose,hypnose,Hypnose(s)?,0,0.0
+1882,1,52609,hystérie,hysterie,Hystérie(s)?,9,171.07339
+1882,1,52609,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1882,1,52609,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1882,1,52609,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1882,1,52609,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1882,1,52609,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1882,1,52609,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1882,1,52609,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1882,1,52609,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1882,1,52609,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1882,1,52609,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1882,1,52609,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1882,1,52609,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1882,1,52609,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1882,1,52609,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1882,1,52609,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1882,1,52609,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1882,1,52609,tremblement,tremblement,Tremblement(s)?,5,95.040772
+1883,1,34550,épilepsie,epilepsie,[EÉ]pilepsie(s)?,100,2894.356006
+1883,1,34550,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1883,1,34550,aphasie,aphasie,Aphasie(s)?,0,0.0
+1883,1,34550,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1883,1,34550,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1883,1,34550,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1883,1,34550,athétose,athetose,Athétose(s)?,0,0.0
+1883,1,34550,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1883,1,34550,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1883,1,34550,chorée,choree,Chorée(s)?,0,0.0
+1883,1,34550,clonus,clonus,Clonus,0,0.0
+1883,1,34550,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1883,1,34550,fugue,fugue,Fugue(s)?,0,0.0
+1883,1,34550,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1883,1,34550,hypnose,hypnose,Hypnose(s)?,0,0.0
+1883,1,34550,hystérie,hysterie,Hystérie(s)?,7,202.60492
+1883,1,34550,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1883,1,34550,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1883,1,34550,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1883,1,34550,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1883,1,34550,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1883,1,34550,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1883,1,34550,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1883,1,34550,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1883,1,34550,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1883,1,34550,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1883,1,34550,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1883,1,34550,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1883,1,34550,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1883,1,34550,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1883,1,34550,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1883,1,34550,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1883,1,34550,tremblement,tremblement,Tremblement(s)?,7,202.60492
+1884,1,56314,épilepsie,epilepsie,[EÉ]pilepsie(s)?,35,621.515076
+1884,1,56314,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1884,1,56314,aphasie,aphasie,Aphasie(s)?,2,35.515147
+1884,1,56314,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1884,1,56314,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1884,1,56314,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1884,1,56314,athétose,athetose,Athétose(s)?,0,0.0
+1884,1,56314,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1884,1,56314,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1884,1,56314,chorée,choree,Chorée(s)?,0,0.0
+1884,1,56314,clonus,clonus,Clonus,0,0.0
+1884,1,56314,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1884,1,56314,fugue,fugue,Fugue(s)?,0,0.0
+1884,1,56314,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1884,1,56314,hypnose,hypnose,Hypnose(s)?,0,0.0
+1884,1,56314,hystérie,hysterie,Hystérie(s)?,16,284.121178
+1884,1,56314,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1884,1,56314,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1884,1,56314,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1884,1,56314,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1884,1,56314,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1884,1,56314,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1884,1,56314,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1884,1,56314,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1884,1,56314,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1884,1,56314,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1884,1,56314,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1884,1,56314,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1884,1,56314,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1884,1,56314,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1884,1,56314,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1884,1,56314,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1884,1,56314,tremblement,tremblement,Tremblement(s)?,0,0.0
+1885,1,70934,épilepsie,epilepsie,[EÉ]pilepsie(s)?,123,1734.006259
+1885,1,70934,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1885,1,70934,aphasie,aphasie,Aphasie(s)?,0,0.0
+1885,1,70934,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1885,1,70934,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1885,1,70934,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1885,1,70934,athétose,athetose,Athétose(s)?,1,14.097612
+1885,1,70934,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1885,1,70934,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1885,1,70934,chorée,choree,Chorée(s)?,0,0.0
+1885,1,70934,clonus,clonus,Clonus,0,0.0
+1885,1,70934,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,1,14.097612
+1885,1,70934,fugue,fugue,Fugue(s)?,3,42.292836
+1885,1,70934,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1885,1,70934,hypnose,hypnose,Hypnose(s)?,0,0.0
+1885,1,70934,hystérie,hysterie,Hystérie(s)?,3,42.292836
+1885,1,70934,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1885,1,70934,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1885,1,70934,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1885,1,70934,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1885,1,70934,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1885,1,70934,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1885,1,70934,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1885,1,70934,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1885,1,70934,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1885,1,70934,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1885,1,70934,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1885,1,70934,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1885,1,70934,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1885,1,70934,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1885,1,70934,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1885,1,70934,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1885,1,70934,tremblement,tremblement,Tremblement(s)?,1,14.097612
+1886,3,78236,épilepsie,epilepsie,[EÉ]pilepsie(s)?,15,191.727593
+1886,3,78236,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1886,3,78236,aphasie,aphasie,Aphasie(s)?,0,0.0
+1886,3,78236,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1886,3,78236,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1886,3,78236,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1886,3,78236,athétose,athetose,Athétose(s)?,0,0.0
+1886,3,78236,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1886,3,78236,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,14,178.945754
+1886,3,78236,chorée,choree,Chorée(s)?,14,178.945754
+1886,3,78236,clonus,clonus,Clonus,0,0.0
+1886,3,78236,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,61,779.692213
+1886,3,78236,fugue,fugue,Fugue(s)?,0,0.0
+1886,3,78236,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1886,3,78236,hypnose,hypnose,Hypnose(s)?,0,0.0
+1886,3,78236,hystérie,hysterie,Hystérie(s)?,2,25.563679
+1886,3,78236,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,4,51.127358
+1886,3,78236,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1886,3,78236,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1886,3,78236,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1886,3,78236,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1886,3,78236,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1886,3,78236,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1886,3,78236,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1886,3,78236,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1886,3,78236,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1886,3,78236,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1886,3,78236,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1886,3,78236,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1886,3,78236,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1886,3,78236,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1886,3,78236,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1886,3,78236,tremblement,tremblement,Tremblement(s)?,0,0.0
+1887,3,425920,épilepsie,epilepsie,[EÉ]pilepsie(s)?,83,194.872276
+1887,3,425920,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1887,3,425920,aphasie,aphasie,Aphasie(s)?,6,14.087153
+1887,3,425920,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1887,3,425920,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1887,3,425920,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1887,3,425920,athétose,athetose,Athétose(s)?,0,0.0
+1887,3,425920,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1887,3,425920,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1887,3,425920,chorée,choree,Chorée(s)?,24,56.34861
+1887,3,425920,clonus,clonus,Clonus,0,0.0
+1887,3,425920,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1887,3,425920,fugue,fugue,Fugue(s)?,0,0.0
+1887,3,425920,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1887,3,425920,hypnose,hypnose,Hypnose(s)?,100,234.785875
+1887,3,425920,hystérie,hysterie,Hystérie(s)?,211,495.398197
+1887,3,425920,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1887,3,425920,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1887,3,425920,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1887,3,425920,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1887,3,425920,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1887,3,425920,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1887,3,425920,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1887,3,425920,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1887,3,425920,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1887,3,425920,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1887,3,425920,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1887,3,425920,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1887,3,425920,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1887,3,425920,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1887,3,425920,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1887,3,425920,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,17,39.913599
+1887,3,425920,tremblement,tremblement,Tremblement(s)?,23,54.000751
+1888,4,353996,épilepsie,epilepsie,[EÉ]pilepsie(s)?,352,994.361518
+1888,4,353996,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1888,4,353996,aphasie,aphasie,Aphasie(s)?,4,11.299563
+1888,4,353996,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,22,62.147595
+1888,4,353996,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,2,5.649781
+1888,4,353996,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,1,2.824891
+1888,4,353996,athétose,athetose,Athétose(s)?,44,124.29519
+1888,4,353996,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,1,2.824891
+1888,4,353996,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,1,2.824891
+1888,4,353996,chorée,choree,Chorée(s)?,50,141.244534
+1888,4,353996,clonus,clonus,Clonus,0,0.0
+1888,4,353996,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1888,4,353996,fugue,fugue,Fugue(s)?,4,11.299563
+1888,4,353996,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1888,4,353996,hypnose,hypnose,Hypnose(s)?,100,282.489068
+1888,4,353996,hystérie,hysterie,Hystérie(s)?,101,285.313958
+1888,4,353996,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,2,5.649781
+1888,4,353996,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,1,2.824891
+1888,4,353996,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1888,4,353996,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1888,4,353996,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1888,4,353996,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,5,14.124453
+1888,4,353996,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),24,67.797376
+1888,4,353996,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1888,4,353996,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1888,4,353996,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1888,4,353996,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1888,4,353996,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1888,4,353996,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,1,2.824891
+1888,4,353996,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1888,4,353996,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1888,4,353996,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1888,4,353996,tremblement,tremblement,Tremblement(s)?,75,211.866801
+1889,3,335905,épilepsie,epilepsie,[EÉ]pilepsie(s)?,140,416.784508
+1889,3,335905,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1889,3,335905,aphasie,aphasie,Aphasie(s)?,14,41.678451
+1889,3,335905,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1889,3,335905,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1889,3,335905,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,3,8.931097
+1889,3,335905,athétose,athetose,Athétose(s)?,0,0.0
+1889,3,335905,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,3,8.931097
+1889,3,335905,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1889,3,335905,chorée,choree,Chorée(s)?,12,35.724386
+1889,3,335905,clonus,clonus,Clonus,0,0.0
+1889,3,335905,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1889,3,335905,fugue,fugue,Fugue(s)?,3,8.931097
+1889,3,335905,glossy skin,glossy_skin,Glossy skin(s)?,1,2.977032
+1889,3,335905,hypnose,hypnose,Hypnose(s)?,157,467.394055
+1889,3,335905,hystérie,hysterie,Hystérie(s)?,295,878.224498
+1889,3,335905,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1889,3,335905,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,2,5.954064
+1889,3,335905,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1889,3,335905,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,1,2.977032
+1889,3,335905,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1889,3,335905,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1889,3,335905,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),12,35.724386
+1889,3,335905,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1889,3,335905,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,2,5.954064
+1889,3,335905,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1889,3,335905,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1889,3,335905,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1889,3,335905,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,1,2.977032
+1889,3,335905,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1889,3,335905,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1889,3,335905,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1889,3,335905,tremblement,tremblement,Tremblement(s)?,66,196.484125
+1890,4,492320,épilepsie,epilepsie,[EÉ]pilepsie(s)?,104,211.244719
+1890,4,492320,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1890,4,492320,aphasie,aphasie,Aphasie(s)?,12,24.374391
+1890,4,492320,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1890,4,492320,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,9,18.280793
+1890,4,492320,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1890,4,492320,athétose,athetose,Athétose(s)?,3,6.093598
+1890,4,492320,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,5,10.155996
+1890,4,492320,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1890,4,492320,chorée,choree,Chorée(s)?,21,42.655184
+1890,4,492320,clonus,clonus,Clonus,1,2.031199
+1890,4,492320,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1890,4,492320,fugue,fugue,Fugue(s)?,7,14.218395
+1890,4,492320,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1890,4,492320,hypnose,hypnose,Hypnose(s)?,127,257.962301
+1890,4,492320,hystérie,hysterie,Hystérie(s)?,292,593.110172
+1890,4,492320,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,4,8.124797
+1890,4,492320,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,3,6.093598
+1890,4,492320,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1890,4,492320,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1890,4,492320,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1890,4,492320,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1890,4,492320,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),10,20.311992
+1890,4,492320,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1890,4,492320,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,1,2.031199
+1890,4,492320,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1890,4,492320,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1890,4,492320,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1890,4,492320,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,2,4.062398
+1890,4,492320,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1890,4,492320,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1890,4,492320,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,4,8.124797
+1890,4,492320,tremblement,tremblement,Tremblement(s)?,204,414.364641
+1891,3,440927,épilepsie,epilepsie,[EÉ]pilepsie(s)?,86,195.043624
+1891,3,440927,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1891,3,440927,aphasie,aphasie,Aphasie(s)?,4,9.071796
+1891,3,440927,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1891,3,440927,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,3,6.803847
+1891,3,440927,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,4,9.071796
+1891,3,440927,athétose,athetose,Athétose(s)?,1,2.267949
+1891,3,440927,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,11,24.94744
+1891,3,440927,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1891,3,440927,chorée,choree,Chorée(s)?,15,34.019237
+1891,3,440927,clonus,clonus,Clonus,2,4.535898
+1891,3,440927,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1891,3,440927,fugue,fugue,Fugue(s)?,2,4.535898
+1891,3,440927,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1891,3,440927,hypnose,hypnose,Hypnose(s)?,130,294.833385
+1891,3,440927,hystérie,hysterie,Hystérie(s)?,491,1113.563016
+1891,3,440927,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,1,2.267949
+1891,3,440927,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,2,4.535898
+1891,3,440927,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1891,3,440927,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1891,3,440927,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1891,3,440927,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,1,2.267949
+1891,3,440927,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),11,24.94744
+1891,3,440927,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,1,2.267949
+1891,3,440927,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,2,4.535898
+1891,3,440927,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1891,3,440927,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1891,3,440927,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1891,3,440927,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,7,15.875644
+1891,3,440927,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,2,4.535898
+1891,3,440927,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1891,3,440927,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,4,9.071796
+1891,3,440927,tremblement,tremblement,Tremblement(s)?,474,1075.007881
+1892,3,378857,épilepsie,epilepsie,[EÉ]pilepsie(s)?,59,155.731582
+1892,3,378857,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1892,3,378857,aphasie,aphasie,Aphasie(s)?,10,26.395183
+1892,3,378857,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,5,13.197592
+1892,3,378857,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1892,3,378857,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,2,5.279037
+1892,3,378857,athétose,athetose,Athétose(s)?,240,633.484402
+1892,3,378857,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1892,3,378857,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1892,3,378857,chorée,choree,Chorée(s)?,113,298.265572
+1892,3,378857,clonus,clonus,Clonus,1,2.639518
+1892,3,378857,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1892,3,378857,fugue,fugue,Fugue(s)?,3,7.918555
+1892,3,378857,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1892,3,378857,hypnose,hypnose,Hypnose(s)?,73,192.684839
+1892,3,378857,hystérie,hysterie,Hystérie(s)?,286,754.902245
+1892,3,378857,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,7,18.476628
+1892,3,378857,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,18,47.51133
+1892,3,378857,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1892,3,378857,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1892,3,378857,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1892,3,378857,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1892,3,378857,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),11,29.034702
+1892,3,378857,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1892,3,378857,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,2,5.279037
+1892,3,378857,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1892,3,378857,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1892,3,378857,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1892,3,378857,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,16,42.232293
+1892,3,378857,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,7,18.476628
+1892,3,378857,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1892,3,378857,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,5,13.197592
+1892,3,378857,tremblement,tremblement,Tremblement(s)?,117,308.823646
+1893,5,513758,épilepsie,epilepsie,[EÉ]pilepsie(s)?,64,124.572269
+1893,5,513758,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1893,5,513758,aphasie,aphasie,Aphasie(s)?,43,83.696994
+1893,5,513758,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,7,13.625092
+1893,5,513758,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1893,5,513758,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1893,5,513758,athétose,athetose,Athétose(s)?,13,25.303742
+1893,5,513758,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,2,3.892883
+1893,5,513758,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,7,13.625092
+1893,5,513758,chorée,choree,Chorée(s)?,22,42.821718
+1893,5,513758,clonus,clonus,Clonus,0,0.0
+1893,5,513758,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,60,116.786503
+1893,5,513758,fugue,fugue,Fugue(s)?,3,5.839325
+1893,5,513758,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1893,5,513758,hypnose,hypnose,Hypnose(s)?,4,7.785767
+1893,5,513758,hystérie,hysterie,Hystérie(s)?,132,256.930306
+1893,5,513758,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,2,3.892883
+1893,5,513758,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1893,5,513758,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1893,5,513758,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1893,5,513758,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1893,5,513758,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1893,5,513758,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),3,5.839325
+1893,5,513758,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1893,5,513758,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,1,1.946442
+1893,5,513758,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1893,5,513758,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1893,5,513758,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1893,5,513758,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,7,13.625092
+1893,5,513758,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,3,5.839325
+1893,5,513758,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1893,5,513758,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1893,5,513758,tremblement,tremblement,Tremblement(s)?,20,38.928834
+1894,3,369163,épilepsie,epilepsie,[EÉ]pilepsie(s)?,88,238.377085
+1894,3,369163,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1894,3,369163,aphasie,aphasie,Aphasie(s)?,13,35.214797
+1894,3,369163,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,35,94.809068
+1894,3,369163,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1894,3,369163,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,1,2.708831
+1894,3,369163,athétose,athetose,Athétose(s)?,3,8.126492
+1894,3,369163,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,13,35.214797
+1894,3,369163,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1894,3,369163,chorée,choree,Chorée(s)?,16,43.341288
+1894,3,369163,clonus,clonus,Clonus,1,2.708831
+1894,3,369163,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1894,3,369163,fugue,fugue,Fugue(s)?,3,8.126492
+1894,3,369163,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1894,3,369163,hypnose,hypnose,Hypnose(s)?,99,268.174221
+1894,3,369163,hystérie,hysterie,Hystérie(s)?,132,357.565628
+1894,3,369163,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,2,5.417661
+1894,3,369163,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,2,5.417661
+1894,3,369163,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1894,3,369163,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,2,5.417661
+1894,3,369163,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1894,3,369163,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,2,5.417661
+1894,3,369163,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),3,8.126492
+1894,3,369163,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1894,3,369163,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,3,8.126492
+1894,3,369163,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1894,3,369163,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1894,3,369163,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1894,3,369163,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,2,5.417661
+1894,3,369163,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1894,3,369163,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1894,3,369163,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1894,3,369163,tremblement,tremblement,Tremblement(s)?,41,111.062051
+1895,4,669573,épilepsie,epilepsie,[EÉ]pilepsie(s)?,54,80.648413
+1895,4,669573,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1895,4,669573,aphasie,aphasie,Aphasie(s)?,57,85.128881
+1895,4,669573,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1895,4,669573,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,1,1.493489
+1895,4,669573,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1895,4,669573,athétose,athetose,Athétose(s)?,3,4.480467
+1895,4,669573,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1895,4,669573,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,11,16.42838
+1895,4,669573,chorée,choree,Chorée(s)?,14,20.908848
+1895,4,669573,clonus,clonus,Clonus,1,1.493489
+1895,4,669573,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,5,7.467446
+1895,4,669573,fugue,fugue,Fugue(s)?,33,49.285141
+1895,4,669573,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1895,4,669573,hypnose,hypnose,Hypnose(s)?,74,110.518196
+1895,4,669573,hystérie,hysterie,Hystérie(s)?,150,224.02337
+1895,4,669573,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,2,2.986978
+1895,4,669573,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,20,29.869783
+1895,4,669573,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1895,4,669573,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1895,4,669573,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,10,14.934891
+1895,4,669573,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1895,4,669573,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),6,8.960935
+1895,4,669573,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1895,4,669573,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1895,4,669573,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1895,4,669573,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1895,4,669573,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",1,1.493489
+1895,4,669573,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,7,10.454424
+1895,4,669573,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,1,1.493489
+1895,4,669573,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1895,4,669573,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1895,4,669573,tremblement,tremblement,Tremblement(s)?,33,49.285141
+1896,3,362094,épilepsie,epilepsie,[EÉ]pilepsie(s)?,97,267.886239
+1896,3,362094,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1896,3,362094,aphasie,aphasie,Aphasie(s)?,10,27.617138
+1896,3,362094,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,3,8.285141
+1896,3,362094,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1896,3,362094,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,1,2.761714
+1896,3,362094,athétose,athetose,Athétose(s)?,3,8.285141
+1896,3,362094,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1896,3,362094,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1896,3,362094,chorée,choree,Chorée(s)?,15,41.425707
+1896,3,362094,clonus,clonus,Clonus,3,8.285141
+1896,3,362094,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1896,3,362094,fugue,fugue,Fugue(s)?,4,11.046855
+1896,3,362094,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1896,3,362094,hypnose,hypnose,Hypnose(s)?,63,173.98797
+1896,3,362094,hystérie,hysterie,Hystérie(s)?,81,223.698819
+1896,3,362094,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,1,2.761714
+1896,3,362094,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1896,3,362094,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1896,3,362094,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1896,3,362094,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1896,3,362094,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1896,3,362094,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),1,2.761714
+1896,3,362094,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1896,3,362094,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,1,2.761714
+1896,3,362094,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1896,3,362094,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1896,3,362094,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1896,3,362094,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,16,44.187421
+1896,3,362094,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,1,2.761714
+1896,3,362094,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1896,3,362094,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,1,2.761714
+1896,3,362094,tremblement,tremblement,Tremblement(s)?,42,115.99198
+1897,3,396455,épilepsie,epilepsie,[EÉ]pilepsie(s)?,70,176.564806
+1897,3,396455,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1897,3,396455,aphasie,aphasie,Aphasie(s)?,17,42.880024
+1897,3,396455,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,3,7.567063
+1897,3,396455,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,4,10.089417
+1897,3,396455,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1897,3,396455,athétose,athetose,Athétose(s)?,3,7.567063
+1897,3,396455,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,3,7.567063
+1897,3,396455,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1897,3,396455,chorée,choree,Chorée(s)?,33,83.237694
+1897,3,396455,clonus,clonus,Clonus,3,7.567063
+1897,3,396455,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,1,2.522354
+1897,3,396455,fugue,fugue,Fugue(s)?,3,7.567063
+1897,3,396455,glossy skin,glossy_skin,Glossy skin(s)?,2,5.044709
+1897,3,396455,hypnose,hypnose,Hypnose(s)?,137,345.562548
+1897,3,396455,hystérie,hysterie,Hystérie(s)?,117,295.115461
+1897,3,396455,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1897,3,396455,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,1,2.522354
+1897,3,396455,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1897,3,396455,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1897,3,396455,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1897,3,396455,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1897,3,396455,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),2,5.044709
+1897,3,396455,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1897,3,396455,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1897,3,396455,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1897,3,396455,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1897,3,396455,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1897,3,396455,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,3,7.567063
+1897,3,396455,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1897,3,396455,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1897,3,396455,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,2,5.044709
+1897,3,396455,tremblement,tremblement,Tremblement(s)?,38,95.849466
+1898,2,261982,épilepsie,epilepsie,[EÉ]pilepsie(s)?,111,423.693231
+1898,2,261982,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1898,2,261982,aphasie,aphasie,Aphasie(s)?,17,64.889954
+1898,2,261982,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1898,2,261982,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1898,2,261982,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,1,3.817056
+1898,2,261982,athétose,athetose,Athétose(s)?,0,0.0
+1898,2,261982,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1898,2,261982,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,1,3.817056
+1898,2,261982,chorée,choree,Chorée(s)?,24,91.609347
+1898,2,261982,clonus,clonus,Clonus,1,3.817056
+1898,2,261982,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1898,2,261982,fugue,fugue,Fugue(s)?,5,19.085281
+1898,2,261982,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1898,2,261982,hypnose,hypnose,Hypnose(s)?,0,0.0
+1898,2,261982,hystérie,hysterie,Hystérie(s)?,52,198.486919
+1898,2,261982,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,5,19.085281
+1898,2,261982,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,3,11.451168
+1898,2,261982,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1898,2,261982,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,3,11.451168
+1898,2,261982,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,1,3.817056
+1898,2,261982,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1898,2,261982,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),1,3.817056
+1898,2,261982,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1898,2,261982,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1898,2,261982,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1898,2,261982,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1898,2,261982,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1898,2,261982,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,17,64.889954
+1898,2,261982,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1898,2,261982,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",3,11.451168
+1898,2,261982,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1898,2,261982,tremblement,tremblement,Tremblement(s)?,7,26.719393
+1899,4,559731,épilepsie,epilepsie,[EÉ]pilepsie(s)?,78,139.352653
+1899,4,559731,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1899,4,559731,aphasie,aphasie,Aphasie(s)?,50,89.328624
+1899,4,559731,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1899,4,559731,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,1,1.786572
+1899,4,559731,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,1,1.786572
+1899,4,559731,athétose,athetose,Athétose(s)?,3,5.359717
+1899,4,559731,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,36,64.316609
+1899,4,559731,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,9,16.079152
+1899,4,559731,chorée,choree,Chorée(s)?,47,83.968906
+1899,4,559731,clonus,clonus,Clonus,4,7.14629
+1899,4,559731,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1899,4,559731,fugue,fugue,Fugue(s)?,39,69.676327
+1899,4,559731,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1899,4,559731,hypnose,hypnose,Hypnose(s)?,91,162.578096
+1899,4,559731,hystérie,hysterie,Hystérie(s)?,158,282.278452
+1899,4,559731,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,3,5.359717
+1899,4,559731,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,6,10.719435
+1899,4,559731,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1899,4,559731,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1899,4,559731,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1899,4,559731,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,1,1.786572
+1899,4,559731,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1899,4,559731,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1899,4,559731,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,1,1.786572
+1899,4,559731,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1899,4,559731,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1899,4,559731,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1899,4,559731,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,12,21.43887
+1899,4,559731,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1899,4,559731,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1899,4,559731,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,6,10.719435
+1899,4,559731,tremblement,tremblement,Tremblement(s)?,76,135.779508
+1900,3,495420,épilepsie,epilepsie,[EÉ]pilepsie(s)?,122,246.255702
+1900,3,495420,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1900,3,495420,aphasie,aphasie,Aphasie(s)?,40,80.739575
+1900,3,495420,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,24,48.443745
+1900,3,495420,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,2,4.036979
+1900,3,495420,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,1,2.018489
+1900,3,495420,athétose,athetose,Athétose(s)?,6,12.110936
+1900,3,495420,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,2,4.036979
+1900,3,495420,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1900,3,495420,chorée,choree,Chorée(s)?,14,28.258851
+1900,3,495420,clonus,clonus,Clonus,3,6.055468
+1900,3,495420,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,1,2.018489
+1900,3,495420,fugue,fugue,Fugue(s)?,20,40.369787
+1900,3,495420,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1900,3,495420,hypnose,hypnose,Hypnose(s)?,70,141.294255
+1900,3,495420,hystérie,hysterie,Hystérie(s)?,197,397.642404
+1900,3,495420,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,3,6.055468
+1900,3,495420,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1900,3,495420,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1900,3,495420,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1900,3,495420,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1900,3,495420,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1900,3,495420,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),4,8.073957
+1900,3,495420,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,8,16.147915
+1900,3,495420,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,2,4.036979
+1900,3,495420,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1900,3,495420,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1900,3,495420,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1900,3,495420,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,1,2.018489
+1900,3,495420,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1900,3,495420,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1900,3,495420,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,1,2.018489
+1900,3,495420,tremblement,tremblement,Tremblement(s)?,91,183.682532
+1901,4,688992,épilepsie,epilepsie,[EÉ]pilepsie(s)?,88,127.722818
+1901,4,688992,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1901,4,688992,aphasie,aphasie,Aphasie(s)?,75,108.854675
+1901,4,688992,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1901,4,688992,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,1,1.451396
+1901,4,688992,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1901,4,688992,athétose,athetose,Athétose(s)?,1,1.451396
+1901,4,688992,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,2,2.902791
+1901,4,688992,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,52,75.472574
+1901,4,688992,chorée,choree,Chorée(s)?,31,44.993266
+1901,4,688992,clonus,clonus,Clonus,2,2.902791
+1901,4,688992,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1901,4,688992,fugue,fugue,Fugue(s)?,20,29.027913
+1901,4,688992,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1901,4,688992,hypnose,hypnose,Hypnose(s)?,65,94.340718
+1901,4,688992,hystérie,hysterie,Hystérie(s)?,216,313.501463
+1901,4,688992,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,11,15.965352
+1901,4,688992,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,3,4.354187
+1901,4,688992,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1901,4,688992,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,1,1.451396
+1901,4,688992,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,1,1.451396
+1901,4,688992,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1901,4,688992,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1901,4,688992,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1901,4,688992,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1901,4,688992,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1901,4,688992,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1901,4,688992,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1901,4,688992,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1901,4,688992,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1901,4,688992,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1901,4,688992,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,1,1.451396
+1901,4,688992,tremblement,tremblement,Tremblement(s)?,117,169.813292
+1902,3,447323,épilepsie,epilepsie,[EÉ]pilepsie(s)?,83,185.54825
+1902,3,447323,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,1,2.235521
+1902,3,447323,aphasie,aphasie,Aphasie(s)?,19,42.474901
+1902,3,447323,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1902,3,447323,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,5,11.177605
+1902,3,447323,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1902,3,447323,athétose,athetose,Athétose(s)?,3,6.706563
+1902,3,447323,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,5,11.177605
+1902,3,447323,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1902,3,447323,chorée,choree,Chorée(s)?,12,26.826253
+1902,3,447323,clonus,clonus,Clonus,1,2.235521
+1902,3,447323,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1902,3,447323,fugue,fugue,Fugue(s)?,7,15.648648
+1902,3,447323,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1902,3,447323,hypnose,hypnose,Hypnose(s)?,104,232.494193
+1902,3,447323,hystérie,hysterie,Hystérie(s)?,94,210.138982
+1902,3,447323,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,3,6.706563
+1902,3,447323,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,15,33.532816
+1902,3,447323,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1902,3,447323,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,2,4.471042
+1902,3,447323,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,1,2.235521
+1902,3,447323,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1902,3,447323,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),1,2.235521
+1902,3,447323,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1902,3,447323,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,5,11.177605
+1902,3,447323,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1902,3,447323,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1902,3,447323,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",1,2.235521
+1902,3,447323,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,2,4.471042
+1902,3,447323,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1902,3,447323,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1902,3,447323,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,2,4.471042
+1902,3,447323,tremblement,tremblement,Tremblement(s)?,52,116.247097
+1903,3,395437,épilepsie,epilepsie,[EÉ]pilepsie(s)?,66,166.903957
+1903,3,395437,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1903,3,395437,aphasie,aphasie,Aphasie(s)?,8,20.230783
+1903,3,395437,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,1,2.528848
+1903,3,395437,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,8,20.230783
+1903,3,395437,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1903,3,395437,athétose,athetose,Athétose(s)?,1,2.528848
+1903,3,395437,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,2,5.057696
+1903,3,395437,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1903,3,395437,chorée,choree,Chorée(s)?,29,73.336587
+1903,3,395437,clonus,clonus,Clonus,8,20.230783
+1903,3,395437,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,1,2.528848
+1903,3,395437,fugue,fugue,Fugue(s)?,4,10.115391
+1903,3,395437,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1903,3,395437,hypnose,hypnose,Hypnose(s)?,173,437.490675
+1903,3,395437,hystérie,hysterie,Hystérie(s)?,98,247.827088
+1903,3,395437,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,1,2.528848
+1903,3,395437,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,1,2.528848
+1903,3,395437,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1903,3,395437,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1903,3,395437,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,1,2.528848
+1903,3,395437,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1903,3,395437,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),8,20.230783
+1903,3,395437,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1903,3,395437,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1903,3,395437,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1903,3,395437,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1903,3,395437,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1903,3,395437,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,2,5.057696
+1903,3,395437,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1903,3,395437,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1903,3,395437,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,6,15.173087
+1903,3,395437,tremblement,tremblement,Tremblement(s)?,72,182.077044
+1904,3,461346,épilepsie,epilepsie,[EÉ]pilepsie(s)?,137,296.957164
+1904,3,461346,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1904,3,461346,aphasie,aphasie,Aphasie(s)?,34,73.697398
+1904,3,461346,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1904,3,461346,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1904,3,461346,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1904,3,461346,athétose,athetose,Athétose(s)?,4,8.670282
+1904,3,461346,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1904,3,461346,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1904,3,461346,chorée,choree,Chorée(s)?,26,56.356834
+1904,3,461346,clonus,clonus,Clonus,5,10.837853
+1904,3,461346,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,2,4.335141
+1904,3,461346,fugue,fugue,Fugue(s)?,7,15.172994
+1904,3,461346,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1904,3,461346,hypnose,hypnose,Hypnose(s)?,66,143.059656
+1904,3,461346,hystérie,hysterie,Hystérie(s)?,99,214.589484
+1904,3,461346,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,1,2.167571
+1904,3,461346,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,35,75.864969
+1904,3,461346,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,1,2.167571
+1904,3,461346,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1904,3,461346,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,2,4.335141
+1904,3,461346,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1904,3,461346,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),8,17.340564
+1904,3,461346,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1904,3,461346,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,1,2.167571
+1904,3,461346,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1904,3,461346,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1904,3,461346,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1904,3,461346,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,1,2.167571
+1904,3,461346,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1904,3,461346,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1904,3,461346,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,3,6.502712
+1904,3,461346,tremblement,tremblement,Tremblement(s)?,83,179.908355
+1905,4,566359,épilepsie,epilepsie,[EÉ]pilepsie(s)?,124,218.942402
+1905,4,566359,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1905,4,566359,aphasie,aphasie,Aphasie(s)?,71,125.362182
+1905,4,566359,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1905,4,566359,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,1,1.765665
+1905,4,566359,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,1,1.765665
+1905,4,566359,athétose,athetose,Athétose(s)?,3,5.296994
+1905,4,566359,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,4,7.062658
+1905,4,566359,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1905,4,566359,chorée,choree,Chorée(s)?,36,63.563923
+1905,4,566359,clonus,clonus,Clonus,13,22.953639
+1905,4,566359,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1905,4,566359,fugue,fugue,Fugue(s)?,6,10.593987
+1905,4,566359,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1905,4,566359,hypnose,hypnose,Hypnose(s)?,79,139.487498
+1905,4,566359,hystérie,hysterie,Hystérie(s)?,131,231.302054
+1905,4,566359,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1905,4,566359,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,2,3.531329
+1905,4,566359,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1905,4,566359,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1905,4,566359,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1905,4,566359,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,1,1.765665
+1905,4,566359,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1905,4,566359,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1905,4,566359,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,3,5.296994
+1905,4,566359,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1905,4,566359,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1905,4,566359,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1905,4,566359,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,9,15.890981
+1905,4,566359,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,1,1.765665
+1905,4,566359,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1905,4,566359,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,3,5.296994
+1905,4,566359,tremblement,tremblement,Tremblement(s)?,103,181.863447
+1906,3,469375,épilepsie,epilepsie,[EÉ]pilepsie(s)?,150,319.573901
+1906,3,469375,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1906,3,469375,aphasie,aphasie,Aphasie(s)?,87,185.352863
+1906,3,469375,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1906,3,469375,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,4,8.521971
+1906,3,469375,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1906,3,469375,athétose,athetose,Athétose(s)?,4,8.521971
+1906,3,469375,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,3,6.391478
+1906,3,469375,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1906,3,469375,chorée,choree,Chorée(s)?,17,36.218375
+1906,3,469375,clonus,clonus,Clonus,14,29.826897
+1906,3,469375,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,1,2.130493
+1906,3,469375,fugue,fugue,Fugue(s)?,7,14.913449
+1906,3,469375,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1906,3,469375,hypnose,hypnose,Hypnose(s)?,51,108.655126
+1906,3,469375,hystérie,hysterie,Hystérie(s)?,47,100.133156
+1906,3,469375,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1906,3,469375,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,1,2.130493
+1906,3,469375,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1906,3,469375,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1906,3,469375,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1906,3,469375,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1906,3,469375,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),4,8.521971
+1906,3,469375,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,1,2.130493
+1906,3,469375,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,3,6.391478
+1906,3,469375,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1906,3,469375,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,1,2.130493
+1906,3,469375,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1906,3,469375,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,3,6.391478
+1906,3,469375,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1906,3,469375,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1906,3,469375,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,3,6.391478
+1906,3,469375,tremblement,tremblement,Tremblement(s)?,33,70.306258
+1907,3,389993,épilepsie,epilepsie,[EÉ]pilepsie(s)?,84,215.388481
+1907,3,389993,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1907,3,389993,aphasie,aphasie,Aphasie(s)?,8,20.513189
+1907,3,389993,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,2,5.128297
+1907,3,389993,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1907,3,389993,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1907,3,389993,athétose,athetose,Athétose(s)?,4,10.256594
+1907,3,389993,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,24,61.539566
+1907,3,389993,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1907,3,389993,chorée,choree,Chorée(s)?,9,23.077337
+1907,3,389993,clonus,clonus,Clonus,7,17.94904
+1907,3,389993,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,4,10.256594
+1907,3,389993,fugue,fugue,Fugue(s)?,9,23.077337
+1907,3,389993,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1907,3,389993,hypnose,hypnose,Hypnose(s)?,27,69.232012
+1907,3,389993,hystérie,hysterie,Hystérie(s)?,154,394.878882
+1907,3,389993,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1907,3,389993,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,1,2.564149
+1907,3,389993,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1907,3,389993,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,1,2.564149
+1907,3,389993,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1907,3,389993,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1907,3,389993,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),1,2.564149
+1907,3,389993,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1907,3,389993,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,3,7.692446
+1907,3,389993,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1907,3,389993,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1907,3,389993,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1907,3,389993,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,1,2.564149
+1907,3,389993,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1907,3,389993,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",3,7.692446
+1907,3,389993,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,3,7.692446
+1907,3,389993,tremblement,tremblement,Tremblement(s)?,39,100.001795
+1908,2,371799,épilepsie,epilepsie,[EÉ]pilepsie(s)?,14,37.654754
+1908,2,371799,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1908,2,371799,aphasie,aphasie,Aphasie(s)?,7,18.827377
+1908,2,371799,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1908,2,371799,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1908,2,371799,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1908,2,371799,athétose,athetose,Athétose(s)?,0,0.0
+1908,2,371799,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1908,2,371799,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,2,5.379251
+1908,2,371799,chorée,choree,Chorée(s)?,10,26.896253
+1908,2,371799,clonus,clonus,Clonus,7,18.827377
+1908,2,371799,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1908,2,371799,fugue,fugue,Fugue(s)?,0,0.0
+1908,2,371799,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1908,2,371799,hypnose,hypnose,Hypnose(s)?,146,392.685295
+1908,2,371799,hystérie,hysterie,Hystérie(s)?,113,303.92766
+1908,2,371799,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,2,5.379251
+1908,2,371799,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1908,2,371799,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1908,2,371799,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1908,2,371799,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1908,2,371799,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1908,2,371799,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),1,2.689625
+1908,2,371799,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1908,2,371799,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1908,2,371799,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1908,2,371799,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1908,2,371799,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1908,2,371799,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1908,2,371799,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1908,2,371799,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1908,2,371799,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1908,2,371799,tremblement,tremblement,Tremblement(s)?,32,86.06801
+1909,2,450111,épilepsie,epilepsie,[EÉ]pilepsie(s)?,15,33.325113
+1909,2,450111,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1909,2,450111,aphasie,aphasie,Aphasie(s)?,9,19.995068
+1909,2,450111,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,8,17.773394
+1909,2,450111,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1909,2,450111,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1909,2,450111,athétose,athetose,Athétose(s)?,0,0.0
+1909,2,450111,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,8,17.773394
+1909,2,450111,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,1,2.221674
+1909,2,450111,chorée,choree,Chorée(s)?,11,24.438416
+1909,2,450111,clonus,clonus,Clonus,11,24.438416
+1909,2,450111,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,1,2.221674
+1909,2,450111,fugue,fugue,Fugue(s)?,4,8.886697
+1909,2,450111,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1909,2,450111,hypnose,hypnose,Hypnose(s)?,105,233.275792
+1909,2,450111,hystérie,hysterie,Hystérie(s)?,87,193.285656
+1909,2,450111,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,4,8.886697
+1909,2,450111,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,2,4.443348
+1909,2,450111,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1909,2,450111,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1909,2,450111,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1909,2,450111,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1909,2,450111,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1909,2,450111,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1909,2,450111,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1909,2,450111,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1909,2,450111,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1909,2,450111,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1909,2,450111,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,4,8.886697
+1909,2,450111,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1909,2,450111,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1909,2,450111,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,1,2.221674
+1909,2,450111,tremblement,tremblement,Tremblement(s)?,80,177.733937
+1910,1,266735,épilepsie,epilepsie,[EÉ]pilepsie(s)?,28,104.973101
+1910,1,266735,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1910,1,266735,aphasie,aphasie,Aphasie(s)?,41,153.710612
+1910,1,266735,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,14,52.48655
+1910,1,266735,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1910,1,266735,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1910,1,266735,athétose,athetose,Athétose(s)?,2,7.498079
+1910,1,266735,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1910,1,266735,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1910,1,266735,chorée,choree,Chorée(s)?,6,22.494236
+1910,1,266735,clonus,clonus,Clonus,3,11.247118
+1910,1,266735,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1910,1,266735,fugue,fugue,Fugue(s)?,1,3.749039
+1910,1,266735,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1910,1,266735,hypnose,hypnose,Hypnose(s)?,5,18.745197
+1910,1,266735,hystérie,hysterie,Hystérie(s)?,57,213.695241
+1910,1,266735,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,2,7.498079
+1910,1,266735,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,3,11.247118
+1910,1,266735,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1910,1,266735,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1910,1,266735,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1910,1,266735,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1910,1,266735,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1910,1,266735,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1910,1,266735,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,19,71.231747
+1910,1,266735,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1910,1,266735,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1910,1,266735,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1910,1,266735,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,2,7.498079
+1910,1,266735,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1910,1,266735,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1910,1,266735,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1910,1,266735,tremblement,tremblement,Tremblement(s)?,26,97.475022
+1911,2,720137,épilepsie,epilepsie,[EÉ]pilepsie(s)?,114,158.303212
+1911,2,720137,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1911,2,720137,aphasie,aphasie,Aphasie(s)?,131,181.909831
+1911,2,720137,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,5,6.943123
+1911,2,720137,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,7,9.720373
+1911,2,720137,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1911,2,720137,athétose,athetose,Athétose(s)?,51,70.819858
+1911,2,720137,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,17,23.606619
+1911,2,720137,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,1,1.388625
+1911,2,720137,chorée,choree,Chorée(s)?,292,405.478402
+1911,2,720137,clonus,clonus,Clonus,39,54.156362
+1911,2,720137,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,2,2.777249
+1911,2,720137,fugue,fugue,Fugue(s)?,4,5.554499
+1911,2,720137,glossy skin,glossy_skin,Glossy skin(s)?,1,1.388625
+1911,2,720137,hypnose,hypnose,Hypnose(s)?,5,6.943123
+1911,2,720137,hystérie,hysterie,Hystérie(s)?,186,258.284188
+1911,2,720137,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,5,6.943123
+1911,2,720137,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,18,24.995244
+1911,2,720137,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1911,2,720137,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1911,2,720137,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,10,13.886247
+1911,2,720137,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,7,9.720373
+1911,2,720137,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),18,24.995244
+1911,2,720137,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1911,2,720137,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,27,37.492866
+1911,2,720137,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1911,2,720137,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1911,2,720137,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1911,2,720137,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,5,6.943123
+1911,2,720137,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,1,1.388625
+1911,2,720137,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1911,2,720137,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,3,4.165874
+1911,2,720137,tremblement,tremblement,Tremblement(s)?,367,509.625252
+1912,1,186395,épilepsie,epilepsie,[EÉ]pilepsie(s)?,15,80.474262
+1912,1,186395,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1912,1,186395,aphasie,aphasie,Aphasie(s)?,8,42.919606
+1912,1,186395,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1912,1,186395,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1912,1,186395,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,1,5.364951
+1912,1,186395,athétose,athetose,Athétose(s)?,8,42.919606
+1912,1,186395,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,38,203.86813
+1912,1,186395,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,1,5.364951
+1912,1,186395,chorée,choree,Chorée(s)?,0,0.0
+1912,1,186395,clonus,clonus,Clonus,6,32.189705
+1912,1,186395,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1912,1,186395,fugue,fugue,Fugue(s)?,1,5.364951
+1912,1,186395,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1912,1,186395,hypnose,hypnose,Hypnose(s)?,0,0.0
+1912,1,186395,hystérie,hysterie,Hystérie(s)?,4,21.459803
+1912,1,186395,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1912,1,186395,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1912,1,186395,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1912,1,186395,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1912,1,186395,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1912,1,186395,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1912,1,186395,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1912,1,186395,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1912,1,186395,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,2,10.729902
+1912,1,186395,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1912,1,186395,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1912,1,186395,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1912,1,186395,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,3,16.094852
+1912,1,186395,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1912,1,186395,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1912,1,186395,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,1,5.364951
+1912,1,186395,tremblement,tremblement,Tremblement(s)?,19,101.934065
+1913,2,251867,épilepsie,epilepsie,[EÉ]pilepsie(s)?,39,154.843628
+1913,2,251867,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1913,2,251867,aphasie,aphasie,Aphasie(s)?,94,373.212846
+1913,2,251867,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,3,11.911048
+1913,2,251867,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1913,2,251867,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1913,2,251867,athétose,athetose,Athétose(s)?,1,3.970349
+1913,2,251867,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,2,7.940699
+1913,2,251867,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,1,3.970349
+1913,2,251867,chorée,choree,Chorée(s)?,68,269.983761
+1913,2,251867,clonus,clonus,Clonus,21,83.377338
+1913,2,251867,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,1,3.970349
+1913,2,251867,fugue,fugue,Fugue(s)?,0,0.0
+1913,2,251867,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1913,2,251867,hypnose,hypnose,Hypnose(s)?,1,3.970349
+1913,2,251867,hystérie,hysterie,Hystérie(s)?,110,436.738437
+1913,2,251867,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,1,3.970349
+1913,2,251867,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,1,3.970349
+1913,2,251867,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,2,7.940699
+1913,2,251867,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1913,2,251867,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,1,3.970349
+1913,2,251867,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,1,3.970349
+1913,2,251867,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),31,123.080832
+1913,2,251867,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1913,2,251867,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1913,2,251867,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1913,2,251867,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1913,2,251867,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1913,2,251867,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,3,11.911048
+1913,2,251867,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,3,11.911048
+1913,2,251867,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1913,2,251867,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,4,15.881398
+1913,2,251867,tremblement,tremblement,Tremblement(s)?,43,170.725026
+1915,1,152559,épilepsie,epilepsie,[EÉ]pilepsie(s)?,310,2032.000734
+1915,1,152559,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1915,1,152559,aphasie,aphasie,Aphasie(s)?,3,19.664523
+1915,1,152559,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1915,1,152559,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,1,6.554841
+1915,1,152559,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1915,1,152559,athétose,athetose,Athétose(s)?,2,13.109682
+1915,1,152559,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,8,52.438729
+1915,1,152559,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,1,6.554841
+1915,1,152559,chorée,choree,Chorée(s)?,4,26.219364
+1915,1,152559,clonus,clonus,Clonus,6,39.329046
+1915,1,152559,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1915,1,152559,fugue,fugue,Fugue(s)?,4,26.219364
+1915,1,152559,glossy skin,glossy_skin,Glossy skin(s)?,1,6.554841
+1915,1,152559,hypnose,hypnose,Hypnose(s)?,1,6.554841
+1915,1,152559,hystérie,hysterie,Hystérie(s)?,58,380.180783
+1915,1,152559,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1915,1,152559,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,3,19.664523
+1915,1,152559,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1915,1,152559,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1915,1,152559,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1915,1,152559,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,1,6.554841
+1915,1,152559,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1915,1,152559,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1915,1,152559,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,1,6.554841
+1915,1,152559,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1915,1,152559,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1915,1,152559,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1915,1,152559,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1915,1,152559,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1915,1,152559,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1915,1,152559,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1915,1,152559,tremblement,tremblement,Tremblement(s)?,19,124.54198
+1918,1,169203,épilepsie,epilepsie,[EÉ]pilepsie(s)?,22,130.021335
+1918,1,169203,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1918,1,169203,aphasie,aphasie,Aphasie(s)?,27,159.571639
+1918,1,169203,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,3,17.730182
+1918,1,169203,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1918,1,169203,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1918,1,169203,athétose,athetose,Athétose(s)?,7,41.370425
+1918,1,169203,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,4,23.640243
+1918,1,169203,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,2,11.820121
+1918,1,169203,chorée,choree,Chorée(s)?,7,41.370425
+1918,1,169203,clonus,clonus,Clonus,20,118.201214
+1918,1,169203,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1918,1,169203,fugue,fugue,Fugue(s)?,1,5.910061
+1918,1,169203,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1918,1,169203,hypnose,hypnose,Hypnose(s)?,0,0.0
+1918,1,169203,hystérie,hysterie,Hystérie(s)?,21,124.111275
+1918,1,169203,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1918,1,169203,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,1,5.910061
+1918,1,169203,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1918,1,169203,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1918,1,169203,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1918,1,169203,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,2,11.820121
+1918,1,169203,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1918,1,169203,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1918,1,169203,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,2,11.820121
+1918,1,169203,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1918,1,169203,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1918,1,169203,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1918,1,169203,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1918,1,169203,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1918,1,169203,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1918,1,169203,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1918,1,169203,tremblement,tremblement,Tremblement(s)?,33,195.032003
+1925,1,8580,épilepsie,epilepsie,[EÉ]pilepsie(s)?,0,0.0
+1925,1,8580,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1925,1,8580,aphasie,aphasie,Aphasie(s)?,1,116.550117
+1925,1,8580,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,0,0.0
+1925,1,8580,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,0,0.0
+1925,1,8580,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1925,1,8580,athétose,athetose,Athétose(s)?,0,0.0
+1925,1,8580,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1925,1,8580,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,0,0.0
+1925,1,8580,chorée,choree,Chorée(s)?,0,0.0
+1925,1,8580,clonus,clonus,Clonus,0,0.0
+1925,1,8580,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1925,1,8580,fugue,fugue,Fugue(s)?,0,0.0
+1925,1,8580,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1925,1,8580,hypnose,hypnose,Hypnose(s)?,0,0.0
+1925,1,8580,hystérie,hysterie,Hystérie(s)?,3,349.65035
+1925,1,8580,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1925,1,8580,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1925,1,8580,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1925,1,8580,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1925,1,8580,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,0,0.0
+1925,1,8580,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,0,0.0
+1925,1,8580,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1925,1,8580,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1925,1,8580,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,0,0.0
+1925,1,8580,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1925,1,8580,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1925,1,8580,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",1,116.550117
+1925,1,8580,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,0,0.0
+1925,1,8580,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,0,0.0
+1925,1,8580,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1925,1,8580,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,0,0.0
+1925,1,8580,tremblement,tremblement,Tremblement(s)?,1,116.550117
+1934,1,252752,épilepsie,epilepsie,[EÉ]pilepsie(s)?,47,185.953029
+1934,1,252752,anévrisme miliaire,anevrisme_miliaire,An[ée]vr[yi]sme(s)? miliaire(s)?,0,0.0
+1934,1,252752,aphasie,aphasie,Aphasie(s)?,4,15.82579
+1934,1,252752,arthropathie tabétique,arthropathie_tabetique,Arthropathie(s)? tabétique(s)?,1,3.956447
+1934,1,252752,astasie-abasie,astasie_abasie,Astasie(s)?-abasie(s)?,2,7.912895
+1934,1,252752,ataxie locomotrice progressive,ataxie_locomotrice_progressive,Ataxie(s)? locomotrice(s)? progressive(s)?,0,0.0
+1934,1,252752,athétose,athetose,Athétose(s)?,4,15.82579
+1934,1,252752,atrophie musculaire progressive,atrophie_musculaire_progressive,Atrophie(s)? musculaire(s)? progressive(s)?,0,0.0
+1934,1,252752,bulbe rachidien,bulbe_rachidien,Bulbe(s)? rachidien(s)?,1,3.956447
+1934,1,252752,chorée,choree,Chorée(s)?,15,59.346711
+1934,1,252752,clonus,clonus,Clonus,22,87.041843
+1934,1,252752,coupe verticale,coupe_verticale,Coupe(s)? verticale(s)?,0,0.0
+1934,1,252752,fugue,fugue,Fugue(s)?,0,0.0
+1934,1,252752,glossy skin,glossy_skin,Glossy skin(s)?,0,0.0
+1934,1,252752,hypnose,hypnose,Hypnose(s)?,5,19.782237
+1934,1,252752,hystérie,hysterie,Hystérie(s)?,418,1653.795024
+1934,1,252752,localisation cérébrale,localisation_cerebrale,Localisation(s)? cérébrale(s)?,0,0.0
+1934,1,252752,maladie de Parkinson,maladie_de_parkinson,Maladie(s)?( de)? Parkinson,0,0.0
+1934,1,252752,maladie de Gilles de la Tourette,maladie_de_gilles_de_la_tourette,Maladie(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1934,1,252752,méthode anatomo-clinique,methode_anatomo_clinique,Méthode(s)? anatomo-clinique(s)?,0,0.0
+1934,1,252752,migraine ophtalmique,migraine_ophtalmique,Migraine(s)? ophtalmique(s)?,2,7.912895
+1934,1,252752,pachyméningite cervicale hypertrophique,pachymeningite_cervicale_hypertrophique,Pachym[eé]ningite(s)? cervicale(s)? hypertrophique(s)?,2,7.912895
+1934,1,252752,paralysie agitante,paralysie_agitante,Paralysi[es] agitan(te|s),0,0.0
+1934,1,252752,sclérose en plaques disséminées,sclerose_en_plaques_disseminees,Sclérose(s)? en plaque(s)? disséminées(s)?,0,0.0
+1934,1,252752,sclérose latérale amyotrophique,sclerose_laterale_amyotrophique,Sclérose(s)? latérale(s)? amyotrophique(s)?,5,19.782237
+1934,1,252752,syndrome de Parkinson,syndrome_de_parkinson,Syndrome(s)?( de)? Parkinson,0,0.0
+1934,1,252752,syndrome de Gilles de la Tourette,syndrome_de_gilles_de_la_tourette,Syndrome(s)?( de)?( Gilles de la)? Tourette,0,0.0
+1934,1,252752,systématisation de la moelle,systematisation_de_la_moelle,"Syst[ée]matisation(?:\s+[\wÀ-ÖØ-öø-ÿ'-]+){0,10}\s+mo[ëeèê]lle",0,0.0
+1934,1,252752,tabès dorsalis,tabes_dorsalis,Tab[eè]s dorsal(is)?,16,63.303159
+1934,1,252752,tabès dorsalis spasmodique,tabes_dorsalis_spasmodique,Tab[eè]s dorsal(is)? spasmodique(s)?,13,51.433817
+1934,1,252752,thrombose de l'artère cérébrale postérieure,thrombose_de_l_artere_cerebrale_posterieure,"Thrombose\s+(?:de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale(?:\s+post(?:é|e)rieure)?|de\s+la\s+c(?:é|e)rébrale\s+post(?:é|e)rieure|(?:[\wÀ-ÖØ-öø-ÿ]+(?:[-’'][\wÀ-ÖØ-öø-ÿ]+)?\s+){1,6}de\s+l[’']?art(?:e|è)re\s+c(?:é|e)rébrale\s+post(?:é|e)rieure)",0,0.0
+1934,1,252752,tic convulsif,tic_convulsif,Tic(s)? convulsif(s)?,1,3.956447
+1934,1,252752,tremblement,tremblement,Tremblement(s)?,24,94.954738
